@@ -1,0 +1,7 @@
+project: libpnet
+target: gre
+
+# image: ghcr.io/nottirb/libpnet:latest
+
+cmds:
+    - cmd: /gre

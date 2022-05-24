@@ -1,0 +1,7 @@
+project: libpnet
+target: udp
+
+# image: ghcr.io/nottirb/libpnet:latest
+
+cmds:
+    - cmd: /udp

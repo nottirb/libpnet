@@ -1,0 +1,7 @@
+project: libpnet
+target: ipv4
+
+# image: ghcr.io/nottirb/libpnet:latest
+
+cmds:
+    - cmd: /ipv4

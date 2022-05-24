@@ -1,0 +1,7 @@
+project: libpnet
+target: tcp
+
+# image: ghcr.io/nottirb/libpnet:latest
+
+cmds:
+    - cmd: /tcp
